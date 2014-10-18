@@ -1,6 +1,9 @@
 using System;
 
-public static void Main(int argc, int[] argv)
+public class HelloWorld
 {
-    //TODO
+	public static void Main()
+	{
+	    Console.WriteLine("Hello, World!");
+	}
 }
